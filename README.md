@@ -1,6 +1,6 @@
-    This is an HTML only recipes website.
+# This is an HTML only recipes website.
 
-    Used it to learn how to create the structure of a webpage 
-applying text, image and hyperlink elements. Also got the chance 
-to relearn and get to practice the Git workflow with my CLI and
-Github. Gained confidence after this small step forward.
+- Structured a webpage with HTML.
+- Applied text, image, and hyperlink elements.
+- Relearned and practiced Git workflow using the CLI and GitHub.
+- Learned about markdown syntax here :D
