@@ -1,0 +1,33 @@
+* {
+    font-family: Arial, 'Times New Roman', serif;
+}
+
+body {
+    background-color: rgb(255, 220, 220);
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    color: rgb(50,255,50);
+    font-size: 30px;
+}
+
+.desc{
+    text-align: center;
+}
+
+ul,ol{
+    background-color: rgb(130, 130, 255);
+}
+
+li{
+    font-weight: 600;
+}
