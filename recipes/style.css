@@ -31,3 +31,23 @@ ul,ol{
 li{
     font-weight: 600;
 }
+
+/*index/main page css*/
+
+#mainhead{
+    text-align: center;
+    font-size: 80px;
+}
+
+.recipespages {
+    font-size: 70px;
+    background-color: rgb(255, 220, 220);
+    text-align: center;
+    list-style: none;
+}
+
+.recipespages li img{
+    height: 70px;
+    width: 70px;
+}
+
